@@ -1,4 +1,4 @@
-# Print_it
+# Print-it
 
 https://usernamegrv.github.io/P5-Print-it/
 
